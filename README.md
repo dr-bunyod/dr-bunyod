@@ -10,10 +10,10 @@ HTML, CSS, JavaScript, PHP, Python, MySQL
 - Russian (A1)
 
 ## EDUCATION
-Udevs Bootcamp
+Udevs Bootcamp  
 Nov 2021 - Present
 
-General Secondary Education
+General Secondary Education  
 Sep 2010 - May 2021
 
 ## INTERESTS
