@@ -11,10 +11,10 @@ HTML, CSS, JavaScript, PHP, Python, MySQL
 
 ## EDUCATION
 Udevs Bootcamp  
-Nov 2021 - Present
+_Nov 2021 - Present_
 
 General Secondary Education  
-Sep 2010 - May 2021
+_Sep 2010 - May 2021_
 
 ## INTERESTS
-Science, language learning, basketball
+science, language learning, basketball
