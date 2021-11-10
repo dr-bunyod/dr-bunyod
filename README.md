@@ -16,5 +16,4 @@ _Nov 2021 - Present_
 **General Secondary Education**  
 _Sep 2010 - May 2021_
 
-## INTERESTS
-science, language learning, basketball
+_for bootcamp_
