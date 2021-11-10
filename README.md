@@ -5,9 +5,9 @@ An 18-year-old kid from Earth 🌎️.
 HTML, CSS, JavaScript, PHP, Python, MySQL
 
 ## LANGUAGES
-Uzbek (native)
-English (C1)
-Russian (A1)
+- Uzbek (native)
+- English (C1)
+- Russian (A1)
 
 ## EDUCATION
 Udevs Bootcamp
